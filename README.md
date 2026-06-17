@@ -5,8 +5,7 @@ To use this repository:
 
 1. Sign into your GitHub.
 2. On your computer, clone this repository.
-3. Change to the directory you just cloned. create a virtual environment.   
-
+3. Change to the directory you just cloned. Create a virtual environment:  
 python -m venv .venv
 source .venv/bin/activate
 code .
